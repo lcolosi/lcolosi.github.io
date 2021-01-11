@@ -9,8 +9,9 @@ author_profile: true
 
 ### Overview
 
-In 2021, I began a 5-month appointment in the [Air-Sea Interaction Laboratory](https://airsea.ucsd.edu/) working with Luc Lenain, Nicholas Pizzo, and Laurent Grare on a project investigating how to better
-understanding the nature of the measurements taking on the quasi-Lagrangian Wave Glider platform. 
+In 2021, I began a 5-month appointment in the [Air-Sea Interaction Laboratory](https://airsea.ucsd.edu/) working with Luc Lenain, Nicholas Pizzo, and Laurent Grare on a project investigating how to better understand the nature of the measurements taken on the quasi-Lagrangian Wave Glider platform. 
+
+![Figure 1](https://lcolosi.github.io/files/waveglider_sv3.png "Figure 1: An instrumented wave glider SV3 vehicle underway about 20nm off of La Jolla, CA. Source: Air-Sea Interaction laboratory.")
 
 Aspects of the Wave Glider that need to better understood include: 
 
