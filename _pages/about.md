@@ -11,6 +11,6 @@ I graduated for Univeristy of California, San Diego in Fall 2020 with a B.S. in 
 
 My research interests include air-sea interactions at the meso- and submeso-scale levels such as the exchange of momentum, heat, gasses, and energy. My interests also include investigating the pivotal role of small scale processes such as surface gravity waves and Langmuir circulations in mediating these exchanges. More generally, I am interested in holistically understanding how multiple components of the air-sea system interact to give us the observed dynamics present in our world's oceans. 
 
-In addition to research, I am passionate about teaching and mentoring. To pass on my knowledge of scientific computing to peers and individuals new to research, I became a certified instructor for The Carpentries in Fall 2020. As an instructor, I organize and teach Software Carpentry Workshops with the goal of improving students’ data literacy and programming skills.
+In addition to research, I am passionate about teaching and mentoring. To pass on my knowledge of scientific computing to peers and individuals new to research, I became a certified instructor for [The Carpentries](https://carpentries.org/) in Fall 2020. As an instructor, I organize and teach [Software Carpentry Workshops](https://software-carpentry.org/) with the goal of improving students’ data literacy and programming skills.
 
 For my pastime activities, I enjoy surfing, rock-climbing, and running.
