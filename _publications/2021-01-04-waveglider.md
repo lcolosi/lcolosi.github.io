@@ -4,9 +4,9 @@ collection: research project
 permalink: /publication/2021-01-04-waveglider
 excerpt: 'Better Understanding the nature of the Measurements taking on the Wave Glider Platform.'
 date: 2021-01-04
-venue: 'Journal of Geophysical Research'
+venue: 'N/A'
 paperurl: 'http://lcolosi.github.io/files/WaveClimatology.pdf'
-citation: 'Luke V. Colosi, Sarah T. Gille, Ana B. Villas Boas. &quot;The Seasonal Cycle of Significant Wave Height in the Ocean:  Local vs Remote Forcing.&quot; <i>Journal of Geophysical Research</i>, in finalizing stage.'
+citation: 'N/A'
 ---
 ## Overview
 
