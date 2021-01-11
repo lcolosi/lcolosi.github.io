@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-Find my CV [here](http://lcolosi.github.io/files/lcolosi_CV.pdf).
+Link to my [curriculum vitae](http://lcolosi.github.io/files/lcolosi_CV.pdf).
