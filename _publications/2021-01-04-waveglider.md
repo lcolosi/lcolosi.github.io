@@ -4,9 +4,9 @@ collection: research project
 permalink: /publication/2021-01-04-waveglider
 excerpt: 'Better Understanding the nature of the Measurements taking on the Wave Glider Platform.'
 date: 2021-01-04
-venue: 'N/A'
-paperurl: 'http://lcolosi.github.io/files/WaveClimatology.pdf'
-citation: 'N/A'
+venue: 'TBD'
+paperurl: ''
+citation: 'TBD'
 ---
 ## Overview
 
