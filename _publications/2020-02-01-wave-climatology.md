@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2020-02-01-wave-climatology
 excerpt: 'The Seasonal Cycle of Significant Wave Height in the Ocean:  Local vs Remote Forcing'
 date: 2021-01-10
-venue: 'Journal of Geophysical Research'
+venue: 'Journal of Geophysical Research: Oceans'
 paperurl: 'http://lcolosi.github.io/files/WaveClimatology.pdf'
-citation: 'Luke V. Colosi, Sarah T. Gille, Ana B. Villas Boas. &quot;The Seasonal Cycle of Significant Wave Height in the Ocean:  Local vs Remote Forcing.&quot; <i>Journal of Geophysical Research</i>, in finalizing stage.'
+citation: 'Luke V. Colosi, Sarah T. Gille, Ana B. Villas Boas. &quot;The Seasonal Cycle of Significant Wave Height in the Ocean:  Local vs Remote Forcing.&quot; <i>Journal of Geophysical Research: Oceans</i>, submitted.'
 ---
 ## Overview
 
