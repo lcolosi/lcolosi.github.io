@@ -10,7 +10,7 @@ redirect_from:
 ---
 #### Mailing Address
 <address>
-  Luke Colosi<br /> 156 Las Colinas Drive<br /> Santa Cruz, CA 95076<br /> United States
+  Luke Colosi<br /> 156 Las Colinas Drive<br /> Watsonville, CA 95076<br /> United States
 </address>
 
 #### Email
