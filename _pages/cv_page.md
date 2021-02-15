@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 excerpt: "Education, scientific background, research interests & skills, and more."
 author_profile: true
