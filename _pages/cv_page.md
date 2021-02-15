@@ -11,22 +11,20 @@ redirect_from:
 Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 
 <h1 align="center">{{ site.author.name }}</h1>
-<p align="center">{{ site.author.bio }} <br /> 61 Rte 9W, Palisades, NY 10964</p>
+<p align="center">{{ site.author.bio }} <br /> 156 Las Colinas Drive, Watsonville, CA 95076</p>
 <p align="center"><i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:{{ site.author.email }}" target="_blank">{{ site.author.email }}</a> &#124; <i class="fab fa-twitter" aria-hidden="true"></i>&nbsp;<a href="https://twitter.com/{{ site.author.twitter }}">@{{ site.author.twitter }}</a></p>
 
 
 
 ## Research Interests
 
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Air-sea Interactions, Surface Gravity Waves, Remote Sensing.
 
 ## Education 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**PhD, Oceanography**, School of Oceanography, University of Washington (2020)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**BS, Oceanic and Atmospheric Sciences**, University of California San Diego (December 2020)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**MS, Oceanography**, School of Marine Sciences, University of Maine (2014)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**BS, Marine Science**, School of Marine Sciences, University of Maine (2013)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Minor, Mathematics**, School of Marine Sciences, University of Maine (December 2020)
 
 
 
