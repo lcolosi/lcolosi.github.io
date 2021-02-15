@@ -8,11 +8,15 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- Click [here](/cv-print/) for a printable version or [download a PDF](/files/cv-print.pdf).<br /><br /><br /> -->
+Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 
 <h1 align="center">{{ site.author.name }}</h1>
 <p align="center">{{ site.author.bio }} <br /> 61 Rte 9W, Palisades, NY 10964</p>
 <p align="center"><i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:{{ site.author.email }}" target="_blank">{{ site.author.email }}</a> &#124; <i class="fab fa-twitter" aria-hidden="true"></i>&nbsp;<a href="https://twitter.com/{{ site.author.twitter }}">@{{ site.author.twitter }}</a></p>
+
+
+
+## Research Interests
 
 
 
