@@ -89,7 +89,7 @@ author:
   pubmed           : #""
   googlescholar    : #""
   email            : "lcolosi@ucsd.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Luke_Colosi"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,14 +103,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : https://orcid.org/0000-0002-0571-4358
+  linkedin         : "https://www.linkedin.com/in/luke-colosi-8b3838149/"
+  orcid            : "https://orcid.org/0000-0002-0571-4358"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "@LukeColosi"
   vine             :
   weibo            :
   xing             :
