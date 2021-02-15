@@ -24,9 +24,9 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 
 ## Education 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **BS, Oceanic and Atmospheric Sciences**, University of California San Diego (December 2020)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **BS, Oceanic and Atmospheric Sciences**, University of California, San Diego (December 2020)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Minor, Mathematics**, School of Marine Sciences, University of Maine (December 2020)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Minor, Mathematics**, University of California, San Diego (December 2020)
 
 
 ## Research Experience
@@ -46,7 +46,7 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 
 **5** &#124; International Ocean Vector Winds Science Team Meeting, Virtual (**2021**): Presented research finds discussed in [Colosi et. al. 2021](https://doi.org/10.1002/essoar.10506029.1).
 
-**4** &#124; AGU Ocean Science Meeting Poster, San Diego, CA (**2020**): Presented research findinds from [Colosi et. al. 2021](https://doi.org/10.1002/essoar.10506029.1) with improved characterization on uncertainties. 
+**4** &#124; AGU Ocean Science Meeting Poster, San Diego, CA (**2020**): Presented research findinds from [Colosi et. al. 2021](https://doi.org/10.1002/essoar.10506029.1) with improved characterization of uncertainties. 
 
 **3** &#124; Summer Undergraduate Research Fellowship Symposium, Scripps Institution of Oceanography, San Diego, CA (**2019**): I presented a poster on intraannual variability of waves and winds with further developments in statistical methods and quantifying uncertainties.
 
@@ -82,7 +82,7 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 ## Service, Leadership, & Community Engagement
 - Moderator, SIO undergraduate majors’ quarterly meeting on “How to get into a SummerREU”, UC San Diego:  I led group discussions guiding students interested in beginning ocean and atmospheric sciences research. **2020**
 - Tutor, Intermediate algebra, Gompers Preparatory Academy, San Diego, CA, **2020**
-- Student Minister, UC San Diego Newman Center, San Diego, CA: - Served and supported the student community at the UCSD Newman Center through leading community building events, coordinating off campus retreats, and participating in social justice activities such as feeding the homeless and food/clothing drives.**2017-2019**
+- Student Minister, UC San Diego Newman Center, San Diego, CA: - Served and supported the student community at the UCSD Newman Center through leading community building events, coordinating off campus retreats, and participating in social justice activities such as feeding the homeless and food/clothing drives. **2017-2019**
 - Junior Lifeguard Instructor, California State Parks Santa Cruz, CA: Educated 6 to 14 year olds on lifeguarding skills and led discussions about ocean conditions and aquatic safety. **2015-2018**
 - Exhibit Guide,  Seymour Marine Discovery Center, Santa Cruz, CA:  Educated the public about exhibits involving marine organisms in their ocean environment. **2013**
 
