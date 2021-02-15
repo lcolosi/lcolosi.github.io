@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Better Understanding the nature of the Measurements taking on the Wave Glider Platform.
+## Better Understanding the nature of the Measurements taken aboard the Wave Glider Platform.
 
 ### Overview
 
