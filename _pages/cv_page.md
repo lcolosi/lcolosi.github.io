@@ -64,7 +64,7 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 ## Work Experience
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **California State Parks, Santa Cruz, CA** <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *California State Parks Ocean Lifeguard (2015-2018)*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *California State Parks Ocean Lifeguard (2015-2018)* <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Coordinator for the Sandman Triathlon (2018)*
 
   
@@ -89,7 +89,9 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 ## Computational skills
 
 **Operating Systems** &#124; Unix-based operating systems.
+
 **Programming Languages** &#124; Python, Bash, Shell-Script and MatLab.
+
 **Tools and Software** &#124; Jupyter notebooks, LaTeX, and version control systems (Git).
 
 
