@@ -24,9 +24,9 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 
 ## Education 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **BS, Oceanic and Atmospheric Sciences**, University of California, San Diego (December 2020)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **BS, Oceanic and Atmospheric Sciences**, University of California, San Diego (Dec. 2020)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Minor, Mathematics**, University of California, San Diego (December 2020)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Minor, Mathematics**, University of California, San Diego (Dec. 2020)
 
 
 ## Research Experience
