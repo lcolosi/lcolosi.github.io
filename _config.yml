@@ -87,9 +87,9 @@ author:
   university       : "UC San Diego"
   employer         : "https://airsea.ucsd.edu/"
   pubmed           : #""
-  googlescholar    : #""
+  googlescholar    : https://scholar.google.com/citations?hl=en&user=7k2QNN4AAAAJ
   email            : "lcolosi@ucsd.edu"
-  researchgate     : "https://www.researchgate.net/profile/Luke_Colosi"
+  researchgate     : #"https://www.researchgate.net/profile/Luke_Colosi"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,14 +103,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/luke-colosi-8b3838149/
-  orcid            : "https://orcid.org/0000-0002-0571-4358"
+  linkedin         : #https://www.linkedin.com/in/luke-colosi-8b3838149/
+  orcid            : #"https://orcid.org/0000-0002-0571-4358"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "LukeColosi"
+  twitter          : #"LukeColosi"
   vine             :
   weibo            :
   xing             :
