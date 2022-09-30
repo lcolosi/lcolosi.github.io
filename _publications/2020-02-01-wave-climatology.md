@@ -3,10 +3,10 @@ title: "Surface Wave Climatology"
 collection: publications
 permalink: /publication/2020-02-01-wave-climatology
 excerpt: 'The Seasonal Cycle of Significant Wave Height in the Ocean:  Local vs Remote Forcing'
-date: 2021-01-10
+date: 2021-06-18
 venue: 'Journal of Geophysical Research: Oceans'
-paperurl: 'https://www.essoar.org/doi/10.1002/essoar.10506029.1' 
-citation: 'Luke V. Colosi, Sarah T. Gille, Ana B. Villas Boas. &quot;The Seasonal Cycle of Significant Wave Height in the Ocean:  Local vs Remote Forcing.&quot; <i>Journal of Geophysical Research: Oceans</i>, submitted.'
+paperurl: 'https://doi.org/10.1029/2021JC017198' 
+citation: 'Colosi, L. V., Villas Bôas, A. B., & Gille, S. T. (2021). The seasonal cycle of significant wave height in the ocean: Local versus remote forcing. Journal of Geophysical Research: Oceans, 126, e2021JC017198. https://doi.org/10.1029/2021JC017198' 
 ---
 ## Overview
 
