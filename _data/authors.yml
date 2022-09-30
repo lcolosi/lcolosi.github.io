@@ -5,7 +5,8 @@ Name Name:
   uri         : "https://lcolosi.github.io/"
   email       : "lcolosi@ucsd.edu"
   bio         : "Young, enthusiastic ocean scientist."
-  avatar      : ""
+  avatar      : "luke_colosi_portrait.jpeg"
+  googlescholar    : https://scholar.google.com/citations?hl=en&user=7k2QNN4AAAAJ
 
 Name2 Name2:
   name        : "Name2 Name2"
