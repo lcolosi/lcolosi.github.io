@@ -11,7 +11,7 @@ The broad goals of my research are to better understand the underlying physics o
 2. Collect coincident and colocated observations of submesoscale ocean currents in the upper ocean from in-situ (i.e. instrumented wave gliders) and remote (i.e. Modular aerial sensing system known as MASS) assets to characterize the spatial and temporal variability of submesoscale processes. 
 3. Develop and optimize physics-based parameterization of air-sea interactions for coupled air-sea models.
 
-This scientific effort will bridge the gap between observational and modeling efforts to study the coupled air-sea system. I am currently involved with the science teams in NASA’s Sub-mesoscale Ocean Dynamics experiment [S-MODE](https://espo.nasa.gov/s-mode/content/S-MODE), which is a significant effort to discover if submesoscale ocean dynamics have a significant impact on the vertical exchange of climate and biological variables in the upper ocean and to address important sources of uncertainty in simulating the global ocean. 
+This scientific effort will bridge the gap between observational and modeling efforts to study the coupled air-sea system. I am currently involved with the science teams in NASA’s Sub-mesoscale Ocean Dynamics experiment ([S-MODE](https://espo.nasa.gov/s-mode/content/S-MODE)), which is a significant effort to discover if submesoscale ocean dynamics have a significant impact on the vertical exchange of climate and biological variables in the upper ocean and to address important sources of uncertainty in simulating the global ocean. 
 
 ## Better Understanding of Observations taken aboard Autonomous Moving Platforms.
 
