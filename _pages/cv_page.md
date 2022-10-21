@@ -39,10 +39,10 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 
 ## Research Experience
 
-&ensp;&ensp;&ensp; 2021-Present &#124; **Air-Sea Interaction Laboratory, Scripps Institution of Oceanography**. <br />
+&ensp;&ensp;&ensp; 2021-Present &#124; **Air-Sea Interaction Laboratory, Scripps Institution of Oceanography (SIO)**. <br />
 &ensp;&ensp;&ensp; *Graduate Student Researcher* 
 
-&ensp;&ensp;&ensp; 2021 &#124;**Air-Sea Interaction Laboratory, Scripps Institution of Oceanography**. <br />
+&ensp;&ensp;&ensp; 2021 &#124;**Air-Sea Interaction Laboratory, SIO**. <br />
 &ensp;&ensp;&ensp; *Staff Research Associate 1 (2021)*
 
 &ensp;&ensp;&ensp; 2017-2021 &#124; **Professor Sarah T. Gille Lab, Scripps Institution of Oceanography**. <br />
@@ -51,7 +51,7 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 
 ## Publications
 
-**1** &#124; Colosi, L. V.,  S. T. Gille, and A. B. Villas Bôas (**2021**), The Seasonal Cycle of Significant Waveheight in the Ocean: Local vs Remote Forcing, J. Geophys. Res. Oceans, doi:<a href="https://doi.org/10.1002/essoar.10506029.1" target="_blank">10.1002/essoar.10506029.1</a>
+&ensp;&ensp;&ensp; **1** &#124; Colosi, L. V.,  S. T. Gille, and A. B. Villas Bôas (**2021**), The Seasonal Cycle of Significant Waveheight in the Ocean: Local vs Remote Forcing, J. Geophys. Res. Oceans, doi:<a href="https://doi.org/10.1002/essoar.10506029.1" target="_blank">10.1002/essoar.10506029.1</a>
 
 
 ## Presentations
