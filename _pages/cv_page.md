@@ -58,7 +58,7 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
   -  Assisted at workshop for Ocean and atmospheric science majors at UCSD (Summer 2019) 
   -  Assisted at workshop for  Scripps Summer Undergraduate Research Fellowship program (remote; Summer 2020)
 
-&ensp;&ensp;&ensp; 2019 &#124; **Introduction to Academic Tutoring of Secondary School Students** - Tutor for interme- diate algebra at Gompers Preparatory Academy, San Diego, CA.
+&ensp;&ensp;&ensp; 2019 &#124; **Introduction to Academic Tutoring of Secondary School Students** - Tutor for intermediate algebra at Gompers Preparatory Academy, San Diego, CA.
 
 ## Work Experience
 
