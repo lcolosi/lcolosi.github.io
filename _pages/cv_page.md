@@ -69,9 +69,9 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 
 ## Work Experience
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **California State Parks, Santa Cruz, CA** <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *California State Parks Ocean Lifeguard (2015-2018)* <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Coordinator for the Sandman Triathlon (2018)*
+&ensp;&ensp;&ensp; **California State Parks, Santa Cruz, CA** <br />
+&ensp;&ensp;&ensp; *California State Parks Ocean Lifeguard (2015-2018)* <br />
+&ensp;&ensp;&ensp; *Coordinator for the Sandman Triathlon (2018)*
 
   
 ## Teaching
