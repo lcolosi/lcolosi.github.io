@@ -109,16 +109,16 @@ Scripps Institution of Oceanography <br />
 La Jolla, CA 92093 <br /> 
 +1 858–822–4425 <br /> 
 
-**Dr. Luc Lenain**:
-llenain@ucsd.edu
-Scripps Institution of Oceanography
-9500 Gilman Drive #0213
-La Jolla, CA 92093
-+1 858–366–8798
+**Dr. Luc Lenain**: <br /> 
+llenain@ucsd.edu <br /> 
+Scripps Institution of Oceanography <br /> 
+9500 Gilman Drive #0213 <br /> 
+La Jolla, CA 92093 <br /> 
++1 858–366–8798 <br /> 
 
-**Dr. Bia Villas Bôas**:
-villasboas@mines.edu
-Colorado School of Mines 
-500 Illinois St., 
-Golden, CO 80401 
-+1 858–848–9283
+**Dr. Bia Villas Bôas**: <br /> 
+villasboas@mines.edu <br /> 
+Colorado School of Mines <br /> 
+500 Illinois St., <br /> 
+Golden, CO 80401 <br /> 
++1 858–848–9283 <br /> 
