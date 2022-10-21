@@ -58,15 +58,13 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 
 ## Selected Conference Presentations
 
-**5** &#124; International Ocean Vector Winds Science Team Meeting, Virtual (**2021**): Presented research finds discussed in [Colosi et. al. 2021](https://doi.org/10.1002/essoar.10506029.1).
+**4** &#124; **Luke V. Colosi**, Luc Lenain, Nick Pizzo, and Laurent Grare. Observations of surface gravity wave spectra from moving platforms (talk). Sub-Mesoscale Ocean Dynamics Experiment Science Team Meeting, virtual, 2022.
 
-**4** &#124; AGU Ocean Science Meeting Poster, San Diego, CA (**2020**): Presented research findinds from [Colosi et. al. 2021](https://doi.org/10.1002/essoar.10506029.1) with improved characterization of uncertainties. 
+**3** &#124; **Luke V. Colosi**, Luc Lenain, Nick Pizzo, and Laurent Grare. The seasonal cycle of significant wave height: Local vs. remote forcing (talk). Ocean Sciences Meeting, virtual, 2022.
 
-**3** &#124; Summer Undergraduate Research Fellowship Symposium, Scripps Institution of Oceanography, San Diego, CA (**2019**): I presented a poster on intraannual variability of waves and winds with further developments in statistical methods and quantifying uncertainties.
+**2** &#124; **Luke V. Colosi**, Ana B. Villas Bôas, and Sarah T. Gille. The seasonal cycle of significant wave height: Local vs. remote forcing (talk). International Ocean Vector Winds Science Team Meeting, virtual, 2021.
 
-**2** &#124; Undergraduate Research Conference, UC San Diego, San Diego, CA (**2019**): Participant in the campus wide multidisciplinary research conference for undergraduate students where I presented to university professors and peers my ongoing research on intraannual variability of waves and winds, at global and regional scales, and its possible implications to the sea state.
-
-**1** &#124; Scripps Undergraduate Research Symposium, Scripps Institution of Oceanography, San Diego, CA (**2018**): I presented a poster on global and regional analysis of the annual variability of surface wave significant wave height.
+**1** &#124; **Luke V. Colosi**, Ana B. Villas Bôas, and Sarah T. Gille. The seasonal cycle of significant wave height: Local vs. remote forcing (poster). Ocean Sciences Meeting, San Diego, 2020.
 
 
 ## Work Experience
