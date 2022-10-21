@@ -39,14 +39,14 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 
 ## Research Experience
 
-&ensp;&ensp;&ensp; (2021-Present) &#124; **Air-Sea Interaction Laboratory, Scripps Institution of Oceanography** <br />
+&ensp;&ensp;&ensp; 2021-Present &#124; **Air-Sea Interaction Laboratory, Scripps Institution of Oceanography**. <br />
 &ensp;&ensp;&ensp; *Graduate Student Researcher* 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Air-Sea Interaction Laboratory, Scripps Institution of Oceanography, San Diego, CA** <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Staff Research Associate 1 (2021)*
+&ensp;&ensp;&ensp; 2021 &#124;**Air-Sea Interaction Laboratory, Scripps Institution of Oceanography**. <br />
+&ensp;&ensp;&ensp; *Staff Research Associate 1 (2021)*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Professor Sarah T. Gille Lab, Scripps Institution of Oceanography, San Diego, CA** <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Undergraduate Student Researcher (2017 – 2021)*
+&ensp;&ensp;&ensp; 2017-2021 &#124; **Professor Sarah T. Gille Lab, Scripps Institution of Oceanography**. <br />
+&ensp;&ensp;&ensp; *Undergraduate Student Researcher*
 
 
 ## Publications
