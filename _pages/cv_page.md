@@ -55,6 +55,8 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 
 &ensp;&ensp;&ensp; 2019 &#124; **Intermediate Algebra Tutor**, Gompers Preparatory Academy San Diego, CA.
 
+&ensp;&ensp;&ensp; 2015-2018 &#124; **Junior Lifeguard Instructor**, California State Parks Santa Cruz, CA.
+
 ## Work Experience
 
 &ensp;&ensp;&ensp; 2018 &#124; **Coordinator for the Sandman Triathlon**, California State Parks Santa Cruz, CA. <br />
@@ -62,15 +64,13 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 &ensp;&ensp;&ensp; 2015-2018 &#124; **Ocean Lifeguard**, California State Parks Santa Cruz, CA. 
   
   
-## Service, Leadership, & Community Engagement
+## Service
 
 &ensp;&ensp;&ensp; 2022-Present &#124; **SIO Graduate Student Council Member** - I serve as a co-representative for the applied ocean science circular group in graduate student council. My focus is on improving the transportation safety on campus.
 
 &ensp;&ensp;&ensp; 2020 &#124; **Moderator** for SIO undergraduate majors’ quarterly meeting on “How to get into a Summer REU”. I led group discussions guiding students interested in beginning ocean and atmospheric sciences research.
 
-&ensp;&ensp;&ensp; 2017-2019 &#124; **Student Minister** - Served and supported the student community at the UCSD Newman Center through leading community building events, coordinating off campus retreats, and participating in social justice activities such as feeding the homeless and food/clothing drives.
-  
-&ensp;&ensp;&ensp; 2015-2018 &#124; **Junior Lifeguard Instructor**, California State Parks Santa Cruz, CA - Educated 6 to 14 year olds on lifeguarding skills and led discussions about ocean conditions and aquatic safety. 
+&ensp;&ensp;&ensp; 2017-2019 &#124; **Student Minister** - Served and supported the student community at the UCSD Newman Center through leading community building events, coordinating off campus retreats, and participating in social justice activities such as feeding the homeless and food/clothing drives. 
 
 &ensp;&ensp;&ensp; 2013 &#124; **Exhibit Guide**,  Seymour Marine Discovery Center, Santa Cruz, CA - Educated the public about exhibits involving marine organisms in their ocean environment.
 
