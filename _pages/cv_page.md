@@ -32,15 +32,15 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 
 ## Felllowships and Awards
 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; 2019 &#124; **Summer URS Hiestand Scholarship for cross-disciplinary Engineering and SIO projects**<br /> 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; 2019 &#124; **Summer URS Hiestand Scholarship for cross-disciplinary Engineering and SIO projects**.<br /> 
 
-&ensp;&ensp;&ensp; 2017-2020 &#124; **Provost Honors at University of California, San Diego**<br />
+&ensp;&ensp;&ensp; 2017-2020 &#124; **Provost Honors at University of California, San Diego**.<br />
 
 
 ## Research Experience
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (2021-Present) &#124; **Air-Sea Interaction Laboratory, Scripps Institution of Oceanography** <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Graduate Student Researcher 
+&ensp;&ensp;&ensp; (2021-Present) &#124; **Air-Sea Interaction Laboratory, Scripps Institution of Oceanography** <br />
+&ensp;&ensp;&ensp; *Graduate Student Researcher* 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Air-Sea Interaction Laboratory, Scripps Institution of Oceanography, San Diego, CA** <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Staff Research Associate 1 (2021)*
