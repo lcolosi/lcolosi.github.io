@@ -33,7 +33,7 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; 2019 &#124; **Summer URS Hiestand Scholarship for cross-disciplinary Engineering and SIO projects**<br /> 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2017-2019 &#124; &nbsp;&nbsp;&nbsp; Provost Honors at University of California, San Diego<br />
+&ensp;&ensp;&ensp; 2017-2019 &#124; **Provost Honors at University of California, San Diego**<br />
 
 
 ## Research Experience
