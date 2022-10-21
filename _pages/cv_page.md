@@ -50,13 +50,15 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 
 ## Teaching Experience
 
-**Software Carpentry Instructor**, San Diego, CA (Aug. 2020 - present)
+&ensp;&ensp;&ensp; 2020-Present &#124; **Software Carpentry Instructor**, San Diego, CA.
   -  Responsible for two day workshops teaching best practices for scientific computing to a broad range of audiences.
   -  Workshop curriculum focuses on the Unix shell, version control with Git, and programming in Python.
 
-**Software Carpentry Workshop Assistant**, San Diego, CA (2019 - 2020)
+&ensp;&ensp;&ensp; 2019-2020 &#124; **Software Carpentry Workshop Assistant**, San Diego, CA.
   -  Assisted at workshop for Ocean and atmospheric science majors at UCSD (Summer 2019) 
   -  Assisted at workshop for  Scripps Summer Undergraduate Research Fellowship program (remote; Summer 2020)
+
+&ensp;&ensp;&ensp; 2019 &#124; **Introduction to Academic Tutoring of Secondary School Students** - Tutor for interme- diate algebra at Gompers Preparatory Academy, San Diego, CA.
 
 ## Work Experience
 
