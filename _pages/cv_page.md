@@ -13,7 +13,7 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 
 <h1 align="center">{{ site.author.name }}</h1>
 <p align="center">{{ site.author.bio }} <br /> 156 Las Colinas Drive, Watsonville, CA 95076</p>
-<p align="center"><i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:{{ site.author.email }}" target="_blank">{{ site.author.email }}</a> &#124; <i class="fab fa-googlescholar" aria-hidden="true"></i>&nbsp;<a href="https://scholar.google.com/citations?hl=en&user=7k2QNN4AAAAJ">{{ site.author.name }}</a></p>
+<p align="center"><i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:{{ site.author.email }}" target="_blank">{{ site.author.email }}</a> &#124; <i class="fas fa-fw fa-graduation-cap" aria-hidden="true"></i>&nbsp;<a href="https://scholar.google.com/citations?hl=en&user=7k2QNN4AAAAJ">{{ Google Scholar }}</a></p>
 
 
 
