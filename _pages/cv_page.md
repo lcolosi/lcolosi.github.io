@@ -48,12 +48,6 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 &ensp;&ensp;&ensp; 2017-2021 &#124; **Professor Sarah T. Gille Lab, Scripps Institution of Oceanography**. <br />
 &ensp;&ensp;&ensp; *Undergraduate Student Researcher*
 
-## Work Experience
-
-&ensp;&ensp;&ensp; 2018 &#124; **Coordinator for the Sandman Triathlon**, California State Parks Santa Cruz, CA. <br />
-&ensp;&ensp;&ensp; 2015-2018 &#124; **Ocean Lifeguard**, California State Parks Santa Cruz, CA. 
-
-  
 ## Teaching Experience
 
 **Software Carpentry Instructor**, San Diego, CA (Aug. 2020 - present)
@@ -63,6 +57,12 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 **Software Carpentry Workshop Assistant**, San Diego, CA (2019 - 2020)
   -  Assisted at workshop for Ocean and atmospheric science majors at UCSD (Summer 2019) 
   -  Assisted at workshop for  Scripps Summer Undergraduate Research Fellowship program (remote; Summer 2020)
+
+## Work Experience
+
+&ensp;&ensp;&ensp; 2018 &#124; **Coordinator for the Sandman Triathlon**, California State Parks Santa Cruz, CA. <br />
+
+&ensp;&ensp;&ensp; 2015-2018 &#124; **Ocean Lifeguard**, California State Parks Santa Cruz, CA. 
   
   
 ## Service, Leadership, & Community Engagement
@@ -93,7 +93,7 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 ## Computational skills
 
 **Operating Systems** &#124; Unix-based operating systems.
+
 **Programming Languages** &#124; Python, Bash, Shell-Script and MatLab.
+
 **Tools and Software** &#124; Jupyter notebooks, LaTeX, and version control systems (Git).
-
-
