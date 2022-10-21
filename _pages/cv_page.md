@@ -68,7 +68,7 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 
 &ensp;&ensp;&ensp; 2020 &#124; **Moderator** for SIO undergraduate majors’ quarterly meeting on “How to get into a Summer REU”. I led group discussions guiding students interested in beginning ocean and atmospheric sciences research.
 
-&ensp;&ensp;&ensp; 2017-2019 &#124; Student Minister - Served and supported the student community at the UCSD Newman Center through leading community building events, coordinating off campus retreats, and participating in social justice activities such as feeding the homeless and food/clothing drives.
+&ensp;&ensp;&ensp; 2017-2019 &#124; **Student Minister** - Served and supported the student community at the UCSD Newman Center through leading community building events, coordinating off campus retreats, and participating in social justice activities such as feeding the homeless and food/clothing drives.
   
 &ensp;&ensp;&ensp; 2015-2018 &#124; **Junior Lifeguard Instructor**, California State Parks Santa Cruz, CA - Educated 6 to 14 year olds on lifeguarding skills and led discussions about ocean conditions and aquatic safety. 
 
@@ -99,3 +99,26 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 **Programming Languages** &#124; Python, Bash, Shell-Script and MatLab.
 
 **Tools and Software** &#124; Jupyter notebooks, LaTeX, and version control systems (Git).
+
+## References 
+
+**Dr. Sarah Gille**:
+sgille@ucsd.edu
+Scripps Institution of Oceanography 
+9500 Gilman Drive #0230
+La Jolla, CA 92093
++1 858–822–4425
+
+**Dr. Luc Lenain**:
+llenain@ucsd.edu
+Scripps Institution of Oceanography
+9500 Gilman Drive #0213
+La Jolla, CA 92093
++1 858–366–8798
+
+**Dr. Bia Villas Bôas**:
+villasboas@mines.edu
+Colorado School of Mines 
+500 Illinois St., 
+Golden, CO 80401 
++1 858–848–9283
