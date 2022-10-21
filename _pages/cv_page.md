@@ -23,7 +23,7 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 
 
 ## Education 
-&ensp; 2021-Present &#124; **Ph.D. Student in Applied Ocean Sciences**, Scripps Institution of Oceanography. 
+&ensp;&ensp;&ensp; 2021-Present &#124; **Ph.D. Student in Applied Ocean Sciences**, Scripps Institution of Oceanography. 
 
 &ensp;&ensp;&ensp; 2016-2020 &#124; **BSc., Oceanic and Atmospheric Sciences**, University of California, San Diego.
 
@@ -32,7 +32,7 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 
 ## Felllowships and Awards
 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; 2019 &#124; **Summer URS Hiestand Scholarship for cross-disciplinary Engineering and SIO projects**.<br /> 
+&ensp;&ensp;&ensp; 2019 &#124; **Summer URS Hiestand Scholarship for cross-disciplinary Engineering and SIO projects**.<br /> 
 
 &ensp;&ensp;&ensp; 2017-2020 &#124; **Provost Honors at University of California, San Diego**.<br />
 
