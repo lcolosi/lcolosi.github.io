@@ -51,10 +51,14 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 
 ## Publications
 
-&ensp;&ensp;&ensp; **1** &#124; Colosi, L. V.,  S. T. Gille, and A. B. Villas Bôas (**2021**), The Seasonal Cycle of Significant Waveheight in the Ocean: Local vs Remote Forcing, J. Geophys. Res. Oceans, doi:<a href="https://doi.org/10.1002/essoar.10506029.1" target="_blank">10.1002/essoar.10506029.1</a>
+**2** &#124; **Luke V. Colosi**, Luc Lenain, Nick Pizzo, and Laurent Grare. Observations of surface gravity wave spectra from moving platforms. *J. Atmos. Ocean. Techn., in preparation*, 2023.
+
+**1** &#124; **Luke V. Colosi**, Ana B. Villas Bôas, and Sarah T. Gille. The seasonal cycle of significant wave height in the ocean: Local versus remote forcing. *Journal of Geophysical Research: Oceans*, 126 (8):e2021JC017198. doi: <a href="https://doi.org/10.1002/essoar.10506029.1" target="_blank"10.1029/2021JC017198</a>.
+
+Colosi, L. V.,  S. T. Gille, and A. B. Villas Bôas (**2021**), The Seasonal Cycle of Significant Waveheight in the Ocean: Local vs Remote Forcing, J. Geophys. Res. Oceans, doi:<a href="https://doi.org/10.1029/2021JC017198" target="_blank">10.1002/essoar.10506029.1</a>
 
 
-## Presentations
+## Selected Conference Presentations
 
 **5** &#124; International Ocean Vector Winds Science Team Meeting, Virtual (**2021**): Presented research finds discussed in [Colosi et. al. 2021](https://doi.org/10.1002/essoar.10506029.1).
 
