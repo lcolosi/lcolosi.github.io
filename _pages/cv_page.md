@@ -19,23 +19,33 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 
 ## Research Interests
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Air-sea Interactions, Surface Gravity Waves, Remote Sensing.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Air-sea Interactions, Submesoscale Currents, Surface Gravity Waves, Remote Sensing.
 
 
 ## Education 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2021-Present &#124; **Ph.D. Student in Applied Ocean Sciences**, Scripps Institution of Oceanography. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **BS, Oceanic and Atmospheric Sciences**, University of California, San Diego (Dec. 2020)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2016-2020 &#124; **BSc., Oceanic and Atmospheric Sciences**, University of California, San Diego.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Minor, Mathematics**, University of California, San Diego (Dec. 2020)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2016-2020 &#124; **Minor, Mathematics**, University of California, San Diego.
+
+## Felllowships and Awards
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2019** &nbsp;&nbsp;&nbsp; Summer URS Hiestand Scholarship for cross-disciplinary Engineering and SIO projects<br /> 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2017-2019** &nbsp;&nbsp;&nbsp; Provost Honors at University of California, San Diego<br />
 
 
 ## Research Experience
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (2021-Present) &#124; **Air-Sea Interaction Laboratory, Scripps Institution of Oceanography** <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Graduate Student Researcher 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Air-Sea Interaction Laboratory, Scripps Institution of Oceanography, San Diego, CA** <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Staff Research Associate 1 (Jan. 2021 – present)*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Staff Research Associate 1 (2021)*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Professor Sarah T. Gille Lab, Scripps Institution of Oceanography, San Diego, CA** <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Undergraduate Student Researcher (Dec. 2017 – Feb. 2021)*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Undergraduate Student Researcher (2017 – 2021)*
 
 ## Publications
 
@@ -53,12 +63,6 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 **2** &#124; Undergraduate Research Conference, UC San Diego, San Diego, CA (**2019**): Participant in the campus wide multidisciplinary research conference for undergraduate students where I presented to university professors and peers my ongoing research on intraannual variability of waves and winds, at global and regional scales, and its possible implications to the sea state.
 
 **1** &#124; Scripps Undergraduate Research Symposium, Scripps Institution of Oceanography, San Diego, CA (**2018**): I presented a poster on global and regional analysis of the annual variability of surface wave significant wave height.
-
-
-## Awards
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2019** &nbsp;&nbsp;&nbsp; Summer URS Hiestand Scholarship for cross-disciplinary Engineering and SIO projects<br /> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **2017-2019** &nbsp;&nbsp;&nbsp; Provost Honors at University of California, San Diego<br />
 
 
 ## Work Experience
