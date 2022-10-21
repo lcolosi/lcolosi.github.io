@@ -33,7 +33,7 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; 2019 &#124; **Summer URS Hiestand Scholarship for cross-disciplinary Engineering and SIO projects**<br /> 
 
-&ensp;&ensp;&ensp; 2017-2019 &#124; **Provost Honors at University of California, San Diego**<br />
+&ensp;&ensp;&ensp; 2017-2019 &#124; **Provost Honors at University of California, San Diego**- Awarded during Fall 2017, 2018, and 2019; Winter 2019 and 2020, and Spring 2017, 2018, and 2020 quarters.<br />
 
 
 ## Research Experience
