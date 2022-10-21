@@ -53,7 +53,7 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 
 &ensp;&ensp;&ensp; 2019-2020 &#124; **Software Carpentry Workshop Assistant**, San Diego, CA.
 
-&ensp;&ensp;&ensp; 2019 &#124; **Introduction to Academic Tutoring of Secondary School Students** - Tutor for intermediate algebra at Gompers Preparatory Academy.
+&ensp;&ensp;&ensp; 2019 &#124; **Intermediate Algebra Tutor**, Gompers Preparatory Academy San Diego, CA.
 
 ## Work Experience
 
