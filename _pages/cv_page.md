@@ -86,6 +86,8 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 
 **2** &#124; **Luke V. Colosi**. Source code for: “Observations of surface gravity wave spectra from moving platforms”. <a href="https://github.com/lcolosi/WaveSpectrum" target="_blank">https://github.com/lcolosi/WaveSpectrum</a>, 2023.
 
+**1** &#124; **Luke V. Colosi**. Source code for: “The seasonal cycle of significant wave height in the ocean: Local vs remote forcing”. <a href="https://github.com/lcolosi/WaveClimatology" target="_blank">https://github.com/lcolosi/WaveClimatology</a>, 2021.
+
 ## Selected Conference Presentations
 
 **4** &#124; **Luke V. Colosi**, Luc Lenain, Nick Pizzo, and Laurent Grare. Observations of surface gravity wave spectra from moving platforms (talk). Sub-Mesoscale Ocean Dynamics Experiment Science Team Meeting, virtual, 2022.
