@@ -39,7 +39,7 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 
 ## Research Experience
 
-&ensp;&ensp;&ensp; 2021-Present &#124; **Air-Sea Interaction Laboratory, Scripps Institution of Oceanography**. <br />
+&ensp; 2021-Present &#124; **Air-Sea Interaction Laboratory, Scripps Institution of Oceanography**. <br />
 &ensp;&ensp;&ensp; *Graduate Student Researcher* 
 
 &ensp;&ensp;&ensp; 2021 &#124;**Air-Sea Interaction Laboratory, Scripps Institution of Oceanography**. <br />
