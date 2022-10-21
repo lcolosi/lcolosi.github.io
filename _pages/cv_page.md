@@ -102,12 +102,12 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 
 ## References 
 
-**Dr. Sarah Gille**:
-sgille@ucsd.edu
-Scripps Institution of Oceanography 
-9500 Gilman Drive #0230
-La Jolla, CA 92093
-+1 858–822–4425
+**Dr. Sarah Gille**: <br /> 
+sgille@ucsd.edu <br /> 
+Scripps Institution of Oceanography <br /> 
+9500 Gilman Drive #0230 <br /> 
+La Jolla, CA 92093 <br /> 
++1 858–822–4425 <br /> 
 
 **Dr. Luc Lenain**:
 llenain@ucsd.edu
