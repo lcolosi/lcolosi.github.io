@@ -76,10 +76,15 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 
 ## Publications
 
+### Peer-Reviewed Articles
+
 **2** &#124; **Luke V. Colosi**, Luc Lenain, Nick Pizzo, and Laurent Grare. Observations of surface gravity wave spectra from moving platforms. *J. Atmos. Ocean. Techn., in preparation*, 2023.
 
 **1** &#124; **Luke V. Colosi**, Ana B. Villas Bôas, and Sarah T. Gille. The seasonal cycle of significant wave height in the ocean: Local versus remote forcing. *Journal of Geophysical Research: Oceans*, 126 (8):e2021JC017198. doi:<a href="https://doi.org/10.1029/2021JC017198" target="_blank">10.1029/2021JC017198</a>.
 
+### Data and Software
+
+**2** &#124; **Luke V. Colosi**. Source code for: “Observations of surface gravity wave spectra from moving platforms”. <a href="https://github.com/lcolosi/WaveSpectrum" target="_blank">https://github.com/lcolosi/WaveSpectrum</a>, 2023.
 
 ## Selected Conference Presentations
 
