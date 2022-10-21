@@ -48,6 +48,29 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 &ensp;&ensp;&ensp; 2017-2021 &#124; **Professor Sarah T. Gille Lab, Scripps Institution of Oceanography**. <br />
 &ensp;&ensp;&ensp; *Undergraduate Student Researcher*
 
+## Work Experience
+
+&ensp;&ensp;&ensp; 2018 &#124; **Coordinator for the Sandman Triathlon**, California State Parks Santa Cruz, CA. <br />
+&ensp;&ensp;&ensp; 2015-2018 &#124; **Ocean Lifeguard**, California State Parks Santa Cruz, CA. 
+
+  
+## Teaching Experience
+
+**Software Carpentry Instructor**, San Diego, CA (Aug. 2020 - present)
+  -  Responsible for two day workshops teaching best practices for scientific computing to a broad range of audiences.
+  -  Workshop curriculum focuses on the Unix shell, version control with Git, and programming in Python.
+
+**Software Carpentry Workshop Assistant**, San Diego, CA (2019 - 2020)
+  -  Assisted at workshop for Ocean and atmospheric science majors at UCSD (Summer 2019) 
+  -  Assisted at workshop for  Scripps Summer Undergraduate Research Fellowship program (remote; Summer 2020)
+  
+  
+## Service, Leadership, & Community Engagement
+- Moderator, SIO undergraduate majors’ quarterly meeting on “How to get into a SummerREU”, UC San Diego:  I led group discussions guiding students interested in beginning ocean and atmospheric sciences research. **2020**
+- Tutor, Intermediate algebra, Gompers Preparatory Academy, San Diego, CA, **2020**
+- Student Minister, UC San Diego Newman Center, San Diego, CA: - Served and supported the student community at the UCSD Newman Center through leading community building events, coordinating off campus retreats, and participating in social justice activities such as feeding the homeless and food/clothing drives. **2017-2019**
+- Junior Lifeguard Instructor, California State Parks Santa Cruz, CA: Educated 6 to 14 year olds on lifeguarding skills and led discussions about ocean conditions and aquatic safety. **2015-2018**
+- Exhibit Guide,  Seymour Marine Discovery Center, Santa Cruz, CA:  Educated the public about exhibits involving marine organisms in their ocean environment. **2013**
 
 ## Publications
 
@@ -67,36 +90,10 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 **1** &#124; **Luke V. Colosi**, Ana B. Villas Bôas, and Sarah T. Gille. The seasonal cycle of significant wave height: Local vs. remote forcing (poster). Ocean Sciences Meeting, San Diego, 2020.
 
 
-## Work Experience
-
-&ensp;&ensp;&ensp; 2018 &#124; **Coordinator for the Sandman Triathlon, California State Parks Santa Cruz, CA** <br />
-&ensp;&ensp;&ensp; 2018 &#124; **California State Parks Ocean Lifeguard, Santa Cruz, CA** 
-
-  
-## Teaching
-
-**Software Carpentry Instructor**, San Diego, CA (Aug. 2020 - present)
-  -  Responsible for two day workshops teaching best practices for scientific computing to a broad range of audiences.
-  -  Workshop curriculum focuses on the Unix shell, version control with Git, and programming in Python.
-
-**Software Carpentry Workshop Assistant**, San Diego, CA (2019 - 2020)
-  -  Assisted at workshop for Ocean and atmospheric science majors at UCSD (Summer 2019) 
-  -  Assisted at workshop for  Scripps Summer Undergraduate Research Fellowship program (remote; Summer 2020)
-  
-  
-## Service, Leadership, & Community Engagement
-- Moderator, SIO undergraduate majors’ quarterly meeting on “How to get into a SummerREU”, UC San Diego:  I led group discussions guiding students interested in beginning ocean and atmospheric sciences research. **2020**
-- Tutor, Intermediate algebra, Gompers Preparatory Academy, San Diego, CA, **2020**
-- Student Minister, UC San Diego Newman Center, San Diego, CA: - Served and supported the student community at the UCSD Newman Center through leading community building events, coordinating off campus retreats, and participating in social justice activities such as feeding the homeless and food/clothing drives. **2017-2019**
-- Junior Lifeguard Instructor, California State Parks Santa Cruz, CA: Educated 6 to 14 year olds on lifeguarding skills and led discussions about ocean conditions and aquatic safety. **2015-2018**
-- Exhibit Guide,  Seymour Marine Discovery Center, Santa Cruz, CA:  Educated the public about exhibits involving marine organisms in their ocean environment. **2013**
-
 ## Computational skills
 
 **Operating Systems** &#124; Unix-based operating systems.
-
 **Programming Languages** &#124; Python, Bash, Shell-Script and MatLab.
-
 **Tools and Software** &#124; Jupyter notebooks, LaTeX, and version control systems (Git).
 
 
