@@ -23,7 +23,7 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 
 
 ## Education 
-&nbsp;&nbsp;&nbsp; 2021-Present &#124; **Ph.D. Student in Applied Ocean Sciences**, Scripps Institution of Oceanography. 
+&nbsp;&nbsp; 2021-Present &#124; **Ph.D. Student in Applied Ocean Sciences**, Scripps Institution of Oceanography. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2016-2020 &#124; **BSc., Oceanic and Atmospheric Sciences**, University of California, San Diego.
 
