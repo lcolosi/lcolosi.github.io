@@ -29,11 +29,12 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 
 &ensp;&ensp;&ensp; 2016-2020 &#124; **Minor, Mathematics**, University of California, San Diego.
 
+
 ## Felllowships and Awards
 
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; 2019 &#124; **Summer URS Hiestand Scholarship for cross-disciplinary Engineering and SIO projects**<br /> 
 
-&ensp;&ensp;&ensp; 2017-2019 &#124; **Provost Honors at University of California, San Diego**- Awarded during Fall 2017, 2018, and 2019; Winter 2019 and 2020, and Spring 2017, 2018, and 2020 quarters.<br />
+&ensp;&ensp;&ensp; 2017-2020 &#124; **Provost Honors at University of California, San Diego**<br />
 
 
 ## Research Experience
@@ -46,6 +47,7 @@ Click [here](/files/lcolosi_CV.pdf) for a printable version.<br /><br /><br />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Professor Sarah T. Gille Lab, Scripps Institution of Oceanography, San Diego, CA** <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Undergraduate Student Researcher (2017 – 2021)*
+
 
 ## Publications
 
